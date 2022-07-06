@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Api
+build_property.ProjectDir = C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Api\

@@ -1,0 +1,10 @@
+C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\bin\Debug\netcoreapp2.1\Logic.deps.json
+C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\bin\Debug\netcoreapp2.1\Logic.dll
+C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\bin\Debug\netcoreapp2.1\Logic.pdb
+C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.csproj.AssemblyReference.cache
+C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfoInputs.cache
+C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfo.cs
+C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.csproj.CoreCompileInputs.cache
+C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.dll
+C:\src\pluralsight\cqrs-in-practice\10\demos\CqrsInPractice\Before\src\Logic\obj\Debug\netcoreapp2.1\Logic.pdb
